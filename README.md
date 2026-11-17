@@ -1,6 +1,6 @@
 # Software Engineering Lab (SE-LABS)
 
-Repository containing lab assignments, projects, reports, and code artifacts for the **5th Semester Software Engineering Laboratory (CS304/SE Lab)** at PES University.
+Repository containing lab assignments, projects, reports, and code artifacts for the **5th Semester Software Engineering Laboratory** at PES University.
 
 **Author:** Vikas N Naik  
 **SRN:** PES2UG24CS583  
